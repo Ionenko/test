@@ -9,7 +9,7 @@
     </clipPath>
   </defs>
   <g id="timeline_illustration_svg" clip-path="url(#clip-timeline_illustration_svg)">
-    <rect width="505" height="505" fill="#fff"/>
+    <rect width="505" height="505" fill="none"/>
     <g id="Group_6253" data-name="Group 6253" transform="translate(-339 -5592)">
       <g id="Group_6090" data-name="Group 6090" transform="translate(339.418 5775.129)">
         <path id="Union_9" data-name="Union 9" d="M54.3,41.636H15.586L0,0H78.262L74.1,41.636H63.848L62.623,52.493Z" transform="translate(0 0)" fill="#67e69a"/>
